@@ -585,7 +585,7 @@ function App() {
               </div>
               <div>
                 <span className="font-bold bg-gradient-to-r from-green-600 to-emerald-600 bg-clip-text text-transparent">SolarSense AI</span>
-                <span className="text-xs text-gray-400 ml-2">Hackathon MVP 2024</span>
+                <span className="text-xs text-gray-400 ml-2">Hackathon MVP 2026</span>
               </div>
             </div>
             <div className="flex items-center gap-4 text-xs">
